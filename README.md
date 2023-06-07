@@ -12,7 +12,7 @@
 
 
 <h2> Socials </h2>
-<a href="https://twitter.com/ViNay37bv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="[https://twitter.com/shreeniket90771?s=11]"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/shreeniketan-nayak-53a659213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay b v" height="30" width="40" /></a>
 
 </p>
