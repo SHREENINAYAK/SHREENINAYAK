@@ -1,7 +1,7 @@
 ### Hi there 👋, I'am SHREENIKETAN NAYAK 
 
 
--   🌱 I’m currently pursuing 3nd year BE Degree, specilization in AI & ML
+-   🌱 I’m currently pursuing 3rd year BE Degree, specilization in AI & ML
 *   🌍  India
 *   ✉️  shreeniketannayak11@gmail.com 
 *   🧠  I'm Data Analytics Enthusiast , intrested in AI & ML .
