@@ -1,9 +1,8 @@
 ### Hi there 👋, I'am SHREENIKETAN NAYAK 
-
-I'm a Data Scientist at Ipsos, passionate about turning data into impactful insights.
+Software Engineer (Data Science & AI) at Ipsos | Focused on Data Science,Machine Learning & Generative AI
 Graduated with a specialization in AI/ML, I enjoy solving real-world problems with data, algorithms, and a bit of creativity. 
 
-📊 Currently working as a Data Scientist at Ipsos
+📊 Currently working as a Softwear Engineer at Ipsos
 
 🎓 Graduate in Artificial Intelligence and Machine Learning (AIML)
 
