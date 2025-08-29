@@ -5,8 +5,6 @@ Graduated with a Bachelors of Engineering in AI/ML, I enjoy solving real-world p
 
 📊 Currently working as a Softwear Engineer at Ipsos
 
-🎓 Graduate in Artificial Intelligence and Machine Learning (AIML)
-
 🔥 Passionate about: Data Science, Machine Learning, Deep Learning, and Generative AI.
 
 🚀 Always exploring new tools and technologies to push the boundaries of what's possible
